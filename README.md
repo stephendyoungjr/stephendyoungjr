@@ -19,7 +19,7 @@ Welcome to my GitHub corner! I'm a tech enthusiast with a passion for blending e
 - **[Student Wellness Tracker](https://studentwellnesstracker.onrender.com)**: A React app to help students log their daily activities and predict burnout. 📝📊
 - **[Guildmaster’s Pouch](https://interactivecalculator.onrender.com)**: A React-based calculator with a magical twist! Complete with a timer and a random number generator. 🎲⏳
 - **[WarBnB](https://api-project-bnb.onrender.com)**: A full-stack marketplace for booking unique accommodations, with advanced filtering and immersive design. 🏡🌍
-- - **[HoneyStock](https://stock-trading-app-qlg7.onrender.com/)**: A Python-powered stock trading platform leveraging APIs to provide real-time market data and portfolio management. 📈🐝
+- **[HoneyStock](https://stock-trading-app-qlg7.onrender.com/)**: A Python-powered stock trading platform leveraging APIs to provide real-time market data and portfolio management. 📈🐝
 
 
 
