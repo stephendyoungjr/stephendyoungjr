@@ -20,6 +20,7 @@ Welcome to my GitHub corner! I'm a tech enthusiast with a passion for blending e
 - **[Guildmaster’s Pouch](https://interactivecalculator.onrender.com)**: A React-based calculator with a magical twist! Complete with a timer and a random number generator. 🎲⏳
 - **[WarBnB](https://api-project-bnb.onrender.com)**: A full-stack marketplace for booking unique accommodations, with advanced filtering and immersive design. 🏡🌍
 - **[HoneyStock](https://stock-trading-app-qlg7.onrender.com/)**: Python-powered stock trading platform leveraging APIs to provide real-time market data and portfolio management. 📈🐝
+- **[GoGather](https://gogather.onrender.com/)**: A full-stack event management platform built with React and Express.js, enabling users to discover, create, and register for events with secure authentication. 🎪✨
 
 
 
